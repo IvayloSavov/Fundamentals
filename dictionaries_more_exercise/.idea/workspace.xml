@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="273a13b8-b35b-46a7-9417-367de17eda19" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ggjyS8AxYtqxtmlkACSnziCn2A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../practice" />
+  </component>
+  <component name="RunManager" selected="Python.palindrome">
+    <configuration name="Dragon_Army" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dictionaries_more_exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dragon_Army.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Moba_challenge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dictionaries_more_exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Moba_challenge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Snowwhite" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dictionaries_more_exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Snowwhite.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dictionaries_more_exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/palindrome.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dictionaries_more_exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.palindrome" />
+        <item itemvalue="Python.Dragon_Army" />
+        <item itemvalue="Python.Snowwhite" />
+        <item itemvalue="Python.Moba_challenge" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="273a13b8-b35b-46a7-9417-367de17eda19" name="Default Changelist" comment="" />
+      <created>1598543383908</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598543383908</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="396" y="44" key="#xdebugger.evaluate" timestamp="1598714045147">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="396" y="44" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1598714045147" />
+    <state x="93" y="100" width="453" height="487" maximized="true" key="DiffContextDialog" timestamp="1598821123690">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="100" width="453" height="487" maximized="true" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1598821123690" />
+    <state x="460" y="119" key="FileChooserDialogImpl" timestamp="1599057632640">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="460" y="119" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1599057632640" />
+    <state width="1259" height="216" key="GridCell.Tab.-1.bottom" timestamp="1598732973219">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="216" key="GridCell.Tab.-1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598732973219" />
+    <state width="1259" height="216" key="GridCell.Tab.-1.center" timestamp="1598732973219">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="216" key="GridCell.Tab.-1.center/0.0.1280.680@0.0.1280.680" timestamp="1598732973219" />
+    <state width="1259" height="216" key="GridCell.Tab.-1.left" timestamp="1598732973218">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="216" key="GridCell.Tab.-1.left/0.0.1280.680@0.0.1280.680" timestamp="1598732973218" />
+    <state width="1259" height="216" key="GridCell.Tab.-1.right" timestamp="1598732973219">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="216" key="GridCell.Tab.-1.right/0.0.1280.680@0.0.1280.680" timestamp="1598732973219" />
+    <state width="1339" height="232" key="GridCell.Tab.0.bottom" timestamp="1598987648810">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="617" height="213" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598823584019" />
+    <state width="1339" height="232" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1598987648810" />
+    <state width="1339" height="232" key="GridCell.Tab.0.center" timestamp="1598987648810">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="617" height="213" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1598823584019" />
+    <state width="1339" height="232" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1598987648810" />
+    <state width="1339" height="232" key="GridCell.Tab.0.left" timestamp="1598987648809">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="617" height="213" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1598823584019" />
+    <state width="1339" height="232" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1598987648809" />
+    <state width="1339" height="232" key="GridCell.Tab.0.right" timestamp="1598987648810">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="617" height="213" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1598823584019" />
+    <state width="1339" height="232" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1598987648810" />
+    <state x="426" y="321" width="1339" height="232" key="GridCell.Tab.1.bottom" timestamp="1598987648810">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="426" y="321" width="617" height="213" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598823584019" />
+    <state width="1339" height="232" key="GridCell.Tab.1.bottom/0.0.1360.728@0.0.1360.728" timestamp="1598987648810" />
+    <state x="426" y="321" width="1339" height="232" key="GridCell.Tab.1.center" timestamp="1598987648810">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="426" y="321" width="617" height="213" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1598823584019" />
+    <state width="1339" height="232" key="GridCell.Tab.1.center/0.0.1360.728@0.0.1360.728" timestamp="1598987648810" />
+    <state x="426" y="321" width="1339" height="232" key="GridCell.Tab.1.left" timestamp="1598987648810">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="426" y="321" width="617" height="213" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1598823584019" />
+    <state width="1339" height="232" key="GridCell.Tab.1.left/0.0.1360.728@0.0.1360.728" timestamp="1598987648810" />
+    <state x="426" y="321" width="1339" height="232" key="GridCell.Tab.1.right" timestamp="1598987648810">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="426" y="321" width="617" height="213" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1598823584019" />
+    <state width="1339" height="232" key="GridCell.Tab.1.right/0.0.1360.728@0.0.1360.728" timestamp="1598987648810" />
+    <state x="426" y="321" width="278" height="302" key="GridCell.Tab.2.bottom" timestamp="1598733263322">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="426" y="321" width="278" height="302" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598733263322" />
+    <state x="426" y="321" width="278" height="302" key="GridCell.Tab.2.center" timestamp="1598733263321">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="426" y="321" width="278" height="302" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1598733263321" />
+    <state x="426" y="321" width="278" height="302" key="GridCell.Tab.2.left" timestamp="1598733263321">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="426" y="321" width="278" height="302" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1598733263321" />
+    <state x="426" y="321" width="278" height="302" key="GridCell.Tab.2.right" timestamp="1598733263321">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="426" y="321" width="278" height="302" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1598733263321" />
+    <state x="0" y="238" width="1230" height="188" key="GridCell.Tab.3.bottom" timestamp="1598732957722">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="238" width="1230" height="188" key="GridCell.Tab.3.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598732957722" />
+    <state x="0" y="238" width="1230" height="188" key="GridCell.Tab.3.center" timestamp="1598732957722">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="238" width="1230" height="188" key="GridCell.Tab.3.center/0.0.1280.680@0.0.1280.680" timestamp="1598732957722" />
+    <state x="0" y="238" width="1230" height="188" key="GridCell.Tab.3.left" timestamp="1598732957722">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="238" width="1230" height="188" key="GridCell.Tab.3.left/0.0.1280.680@0.0.1280.680" timestamp="1598732957722" />
+    <state x="0" y="238" width="1230" height="188" key="GridCell.Tab.3.right" timestamp="1598732957722">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="238" width="1230" height="188" key="GridCell.Tab.3.right/0.0.1280.680@0.0.1280.680" timestamp="1598732957722" />
+    <state x="358" y="177" key="com.intellij.ide.util.TipDialog" timestamp="1599057602842">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1598771526275" />
+    <state x="358" y="177" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1599057602842" />
+    <state x="426" y="321" width="292" height="367" key="dock-window-1" timestamp="1598778547675">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="426" y="321" width="292" height="367" key="dock-window-1/0.0.1280.680@0.0.1280.680" timestamp="1598778547674" />
+    <state x="518" y="227" width="487" height="253" key="dock-window-2" timestamp="1598733406726">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="518" y="227" width="487" height="253" key="dock-window-2/0.0.1280.680@0.0.1280.680" timestamp="1598733406726" />
+    <state x="0" y="238" width="1244" height="253" key="dock-window-3" timestamp="1598733406727">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="238" width="1244" height="253" key="dock-window-3/0.0.1280.680@0.0.1280.680" timestamp="1598733406727" />
+    <state x="426" y="321" width="292" height="367" key="dock-window-4" timestamp="1598733406727">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="426" y="321" width="292" height="367" key="dock-window-4/0.0.1280.680@0.0.1280.680" timestamp="1598733406727" />
+    <state x="-16" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1598777933962">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="-16" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1598777933962" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dragon_Army.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/palindrome.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

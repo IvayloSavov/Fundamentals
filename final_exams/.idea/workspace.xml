@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2dcc32bb-3bd2-48d0-b2a4-bb1605831cdd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fETLZ5f2b0rhFV8YK0LwL4TM9J" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../practice/demo.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PC\Desktop\softuni\Fundamentals\final_exams\24_July_2019" />
+      <recent name="C:\Users\PC\Desktop\softuni\Fundamentals\final_exams\03_August_2019_Group_2" />
+      <recent name="C:\Users\PC\Desktop\softuni\Fundamentals\final_exams" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.demo (1)">
+    <configuration name="Ad_Astra" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="final_exams" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Final_Exam_Retake_15_August_2020" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Final_Exam_Retake_15_August_2020/Ad_Astra.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="The_Imitation_Game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="final_exams" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Final_Exam_Retake_15_August_2020" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Final_Exam_Retake_15_August_2020/The_Imitation_Game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="final_exams" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../practice" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../practice/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="final_exams" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="the_pianist" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="final_exams" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Final_Exam_Retake_15_August_2020" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Final_Exam_Retake_15_August_2020/the_pianist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.demo (1)" />
+        <item itemvalue="Python.the_pianist" />
+        <item itemvalue="Python.Ad_Astra" />
+        <item itemvalue="Python.The_Imitation_Game" />
+        <item itemvalue="Python.demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2dcc32bb-3bd2-48d0-b2a4-bb1605831cdd" name="Default Changelist" comment="" />
+      <created>1595782196816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595782196816</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="589" height="438" key="DebuggerActiveHint" timestamp="1596559587256">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="589" height="438" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1596559587256" />
+    <state x="93" y="100" width="453" height="487" key="DiffContextDialog" timestamp="1598107844951">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="100" width="453" height="487" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1598107844951" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1598281589808">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1598281589808" />
+    <state width="617" height="189" key="GridCell.Tab.0.bottom" timestamp="1598282945707">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="617" height="189" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598282945707" />
+    <state width="656" height="164" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1598264712543" />
+    <state width="617" height="189" key="GridCell.Tab.0.center" timestamp="1598282945707">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="617" height="189" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1598282945707" />
+    <state width="656" height="164" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1598264712543" />
+    <state width="617" height="189" key="GridCell.Tab.0.left" timestamp="1598282945707">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="617" height="189" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1598282945707" />
+    <state width="656" height="164" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1598264712543" />
+    <state width="617" height="189" key="GridCell.Tab.0.right" timestamp="1598282945707">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="617" height="189" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1598282945707" />
+    <state width="656" height="164" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1598264712543" />
+    <state width="617" height="189" key="GridCell.Tab.1.bottom" timestamp="1598282945707">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="617" height="189" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598282945707" />
+    <state width="619" height="189" key="GridCell.Tab.1.bottom/0.0.1360.728@0.0.1360.728" timestamp="1598264712532" />
+    <state width="617" height="189" key="GridCell.Tab.1.center" timestamp="1598282945707">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="617" height="189" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1598282945707" />
+    <state width="619" height="189" key="GridCell.Tab.1.center/0.0.1360.728@0.0.1360.728" timestamp="1598264712532" />
+    <state width="617" height="189" key="GridCell.Tab.1.left" timestamp="1598282945707">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="617" height="189" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1598282945707" />
+    <state width="619" height="189" key="GridCell.Tab.1.left/0.0.1360.728@0.0.1360.728" timestamp="1598264712532" />
+    <state width="617" height="189" key="GridCell.Tab.1.right" timestamp="1598282945707">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="617" height="189" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1598282945707" />
+    <state width="619" height="189" key="GridCell.Tab.1.right/0.0.1360.728@0.0.1360.728" timestamp="1598264712532" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1598281568192">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1598281568192" />
+    <state x="-45" y="153" width="672" height="678" key="search.everywhere.popup" timestamp="1596727368298">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="-45" y="153" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1596727368298" />
+    <state x="42" y="256" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1596550947216">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="42" y="256" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1280.680@0.0.1280.680" timestamp="1596550947216" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/04_April_2020_Group_2/Heroes_of_Code_and_Logic_VII.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/10_April_2020/need_for_speed.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/04_April_2020_Group_2/password_reset.py</url>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/13_December_2019/Warrior's_Quest.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/07_December_2019_Group_2/Nikulden’s_Charity.py</url>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/07_December_2019_Group_2/Nikulden’s_Charity.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/07_December_2019_Group_2/Nikulden’s_meals.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_August_2019_Group_2/battle_manager.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/24_July_2019/concert.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/13_December_2019/boss_rush.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/07_December_2019_Group_1/registration.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/9_August_2019/password.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_August_2019_Group_2/message_encrypter.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/14_April_2019_Group_1/on_the_way_to_Annapurna.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/14_April_2019_Group_1/arriving_in_kathmandu.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/14_April_2019_Group_2/practice_sessions.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/06_April_2019/deciphering.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/10_April_2020/need_for_speed_III_with_nested_dictionaries.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Final_Exam_Retake_15_August_2020/The_Imitation_Game.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Final_Exam_Retake_15_August_2020/Ad_Astra.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Final_Exam_Retake_15_August_2020/the_pianist.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../practice/demo.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

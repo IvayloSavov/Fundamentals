@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01f2d3c7-b4b9-4cbc-8495-7635785ee993" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Basic_Syntax_Conditional_Statements_and_Loop" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cDploKHrILOkoB4qEZkUHEbGod" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.patterns_2">
+    <configuration name="number_between_1_and_100" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Basic_Syntax_Conditional_Statements_and_Loop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/number_between_1_and_100.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="number_between_1_and_100_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Basic_Syntax_Conditional_Statements_and_Loop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/number_between_1_and_100_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="patterns" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Basic_Syntax_Conditional_Statements_and_Loop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/patterns.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="patterns_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Basic_Syntax_Conditional_Statements_and_Loop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/patterns_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Basic_Syntax_Conditional_Statements_and_Loop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.patterns_2" />
+        <item itemvalue="Python.patterns" />
+        <item itemvalue="Python.number_between_1_and_100_2" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.number_between_1_and_100" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01f2d3c7-b4b9-4cbc-8495-7635785ee993" name="Default Changelist" comment="" />
+      <created>1590073171879</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590073171879</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="632" height="201" key="GridCell.Tab.0.bottom" timestamp="1590087152494">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="632" height="201" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590087152494" />
+    <state width="632" height="201" key="GridCell.Tab.0.center" timestamp="1590087152494">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="632" height="201" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1590087152494" />
+    <state width="632" height="201" key="GridCell.Tab.0.left" timestamp="1590087152494">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="632" height="201" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1590087152494" />
+    <state width="632" height="201" key="GridCell.Tab.0.right" timestamp="1590087152494">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="632" height="201" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1590087152494" />
+    <state width="632" height="201" key="GridCell.Tab.1.bottom" timestamp="1590087152494">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="632" height="201" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590087152494" />
+    <state width="632" height="201" key="GridCell.Tab.1.center" timestamp="1590087152494">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="632" height="201" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1590087152494" />
+    <state width="632" height="201" key="GridCell.Tab.1.left" timestamp="1590087152494">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="632" height="201" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1590087152494" />
+    <state width="632" height="201" key="GridCell.Tab.1.right" timestamp="1590087152494">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="632" height="201" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1590087152494" />
+    <state x="30" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1590137462793">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="30" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1590137462793" />
+    <state x="100" y="100" width="468" height="480" key="dock-window-1" timestamp="1590085367091">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="100" y="100" width="468" height="480" key="dock-window-1/0.0.1280.680@0.0.1280.680" timestamp="1590085367091" />
+    <state x="100" y="100" width="468" height="480" key="dock-window-2" timestamp="1590085367091">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="100" y="100" width="468" height="480" key="dock-window-2/0.0.1280.680@0.0.1280.680" timestamp="1590085367091" />
+    <state x="-3" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1590084763415">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="-3" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1590084763415" />
+    <state x="57" y="252" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1590076486807">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="57" y="252" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1280.680@0.0.1280.680" timestamp="1590076486807" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/number_definer.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/word_reverse_2.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/patterns.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
