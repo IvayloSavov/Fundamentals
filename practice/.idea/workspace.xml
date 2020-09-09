@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc652ffb-1bae-4af9-88ed-c9511a23c029" name="Default Changelist" comment="" />
+    <list default="true" id="bc652ffb-1bae-4af9-88ed-c9511a23c029" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1cOj8kuW1YaZmRjV6pez1FzB0MR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,9 +29,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.library_fine">
+  <component name="RunManager" selected="Python.bit_wise_decimal_to_binary">
     <configuration name="array_manipulation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,27 +75,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="array_manipulation_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\PC\Desktop\softuni\Fundamentals\practice\array_manipulation_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="arrays_Ds" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,6 +88,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arrays_Ds.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bit_wise_decimal_to_binary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\PC\Desktop\softuni\Fundamentals\practice\bit_wise_decimal_to_binary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bit_wise_decimal_to_binary" />
         <item itemvalue="Python.library_fine" />
         <item itemvalue="Python.arrays_Ds" />
         <item itemvalue="Python.array_manipulation" />
         <item itemvalue="Python.array_manipulation_2 (1)" />
-        <item itemvalue="Python.array_manipulation_2" />
       </list>
     </recent_temporary>
   </component>
@@ -162,21 +170,25 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="83" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1599256065282" />
-    <state width="1259" height="204" key="GridCell.Tab.0.bottom" timestamp="1599255037138">
+    <state width="1259" height="167" key="GridCell.Tab.0.bottom" timestamp="1599667464273">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1259" height="167" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1360.728@0.0.1280.680" timestamp="1599667464273" />
     <state width="1259" height="204" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1599255037138" />
-    <state width="1259" height="204" key="GridCell.Tab.0.center" timestamp="1599255037138">
+    <state width="1259" height="167" key="GridCell.Tab.0.center" timestamp="1599667464273">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1259" height="167" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1360.728@0.0.1280.680" timestamp="1599667464273" />
     <state width="1259" height="204" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1599255037138" />
-    <state width="1259" height="204" key="GridCell.Tab.0.left" timestamp="1599255037138">
+    <state width="1259" height="167" key="GridCell.Tab.0.left" timestamp="1599667464273">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1259" height="167" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1360.728@0.0.1280.680" timestamp="1599667464273" />
     <state width="1259" height="204" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1599255037138" />
-    <state width="1259" height="204" key="GridCell.Tab.0.right" timestamp="1599255037138">
+    <state width="1259" height="167" key="GridCell.Tab.0.right" timestamp="1599667464273">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1259" height="167" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1360.728@0.0.1280.680" timestamp="1599667464273" />
     <state width="1259" height="204" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1599255037138" />
     <state width="1259" height="204" key="GridCell.Tab.1.bottom" timestamp="1599255037138">
       <screen x="0" y="0" width="1280" height="680" />
