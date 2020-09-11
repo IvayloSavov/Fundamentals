@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="bc652ffb-1bae-4af9-88ed-c9511a23c029" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../bit_wise/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../bit_wise/2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bit_wise/demo_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../bit_wise/demo_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bit_wise/demo_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../bit_wise/demo_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
