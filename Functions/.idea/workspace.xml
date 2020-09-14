@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6df3e969-e7aa-482f-9912-68758ce65c1c" name="Default Changelist" comment="" />
+    <list default="true" id="6df3e969-e7aa-482f-9912-68758ce65c1c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1dOMsrOcmpFNJFcQtR7QG5SGzZK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -152,23 +158,41 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state width="617" height="163" key="GridCell.Tab.0.bottom" timestamp="1592326813213">
+    <state width="618" height="160" key="GridCell.Tab.0.bottom" timestamp="1599858330509">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="617" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1592326813213" />
-    <state width="617" height="163" key="GridCell.Tab.0.center" timestamp="1592326813213">
+    <state width="618" height="160" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1599858330509" />
+    <state width="618" height="160" key="GridCell.Tab.0.center" timestamp="1599858330508">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="617" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1592326813213" />
-    <state width="617" height="163" key="GridCell.Tab.0.left" timestamp="1592326813213">
+    <state width="618" height="160" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1599858330508" />
+    <state width="618" height="160" key="GridCell.Tab.0.left" timestamp="1599858330508">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="617" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1592326813213" />
-    <state width="617" height="163" key="GridCell.Tab.0.right" timestamp="1592326813213">
+    <state width="618" height="160" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1599858330508" />
+    <state width="618" height="160" key="GridCell.Tab.0.right" timestamp="1599858330509">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="617" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1592326813213" />
+    <state width="618" height="160" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1599858330509" />
+    <state x="23" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1600092766238">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="23" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1360.728@0.0.1280.680" timestamp="1600092766238" />
+    <state x="23" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1599858313339" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
